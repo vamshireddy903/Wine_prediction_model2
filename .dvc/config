@@ -1,0 +1,6 @@
+[core]
+    remote = wineremote1
+['remote "wineremote"']
+    url = s3://
+['remote "wineremote1"']
+    url = s3://mlops-my-bucket123
